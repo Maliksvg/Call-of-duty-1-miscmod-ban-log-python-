@@ -20,7 +20,7 @@ This script monitors a file named `miscmod_bans.dat` sends a log to a specified 
 
 2. **Configure the script:**
     - Open `ban.py` and replace `your_webhook_url_here` with your Discord webhook URL.
-    - Replace `1253270854792380479` with the ID of the admin role you want to mention.
+    - Replace `admin_role_id` with the ID of the admin role you want to mention.
 
 ## Usage
 
